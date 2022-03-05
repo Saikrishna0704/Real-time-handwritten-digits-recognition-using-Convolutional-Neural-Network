@@ -51,12 +51,9 @@ Sample-2
 
 Sample-3
 
-![image](https://user-images.githubusercontent.com/83568778/156870529-19576559-8195-4627-a356-751e475fb16b.png)
-
-Sample-4
 ![image (2)](https://user-images.githubusercontent.com/83568778/156870403-30c4005b-370e-4c07-950e-81f22d5014d4.png)
 
-Sample-5
+Sample-4
 
 ![image (3)](https://user-images.githubusercontent.com/83568778/156870435-b8566da4-f9b2-4bb9-922b-b1afa211a5d9.png)
 
