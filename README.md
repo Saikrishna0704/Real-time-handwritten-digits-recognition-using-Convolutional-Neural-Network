@@ -41,23 +41,23 @@ The MNIST data set (Modified National Institute of Standards and Technology data
 A real time handwritten scanned image was taken and uploaded in the Google Colab.
 The trained model recognized the digits from the image and displayed another image with digital numbers.
 
-Sample-1
+$ Sample-1
 
 ![Capture](https://user-images.githubusercontent.com/83408384/116871250-9d750900-ac31-11eb-8293-dbf662b2cc66.PNG)
 
-Sample-2
+$ Sample-2
 
 ![image](https://user-images.githubusercontent.com/83568778/156870393-031a8f91-f1fd-465d-aff7-721546c68613.png)
 
-Sample-3
+$ Sample-3
 
 ![image](https://user-images.githubusercontent.com/83568778/156870366-b85e808a-65a8-4528-b232-31f9118eb118.png)
 
-Sample-4
+$ Sample-4
 
 ![image (2)](https://user-images.githubusercontent.com/83568778/156870403-30c4005b-370e-4c07-950e-81f22d5014d4.png)
 
-Sample-5
+$ Sample-5
 
 ![image (3)](https://user-images.githubusercontent.com/83568778/156870435-b8566da4-f9b2-4bb9-922b-b1afa211a5d9.png)
 
